@@ -1,6 +1,5 @@
 Projeto Master of Works
 
-Um sistema para auxiliar na gestão de obras na construção civil.
 A system to help manage construction works.
 
 Download:
